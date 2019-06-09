@@ -17,7 +17,7 @@ cMessage cmessage;
 String[] csavedMessage = new String[5];
 
 void setup() {
-  size(1000, 750);
+  size(1000, 500);
   isClient = false;
   isServer = false;
 }
